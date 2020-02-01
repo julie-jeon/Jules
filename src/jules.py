@@ -1,1 +1,1 @@
-#init repo
+import config
